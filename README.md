@@ -1,7 +1,7 @@
 # Onion Auto
 A simple launch script for Onion OS to turn an SD card into a game cartridge.
 
-Simply put the code in an executable `.sh` file and place it in the `.tmp_update/startup/` directory on the SD card.
+Simply put the code in an executable `.sh` file and place it in the `.tmp_update/startup/` directory on an Onion OS SD card.
 
 You can find an example launch script in `launch_game.sh` or write your own following this template:
 
